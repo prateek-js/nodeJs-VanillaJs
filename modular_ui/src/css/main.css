@@ -1,0 +1,7 @@
+.input-container {
+    display: flex
+}
+
+.input-container select {
+    width: 35%;
+}
